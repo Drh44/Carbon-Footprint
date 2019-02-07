@@ -1,0 +1,9 @@
+Food,Apple,Fruit,1,6
+Food,Beef,Red Meat,5,8
+Food,Milk,Dairy,6,10
+Building,Office,8,5000,3000,4000
+Building,House,3,3000,1000,2000
+Building,SuperStore,400,30044,10000,25000
+Auto,Cavalier,Car,23,40000
+Auto,Raptor,Truck,18,25000
+Auto,Cayman,Car,31,40543
